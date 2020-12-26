@@ -1,0 +1,7 @@
+data/org.seadve.simplecalculator.desktop.in
+data/org.seadve.simplecalculator.appdata.xml.in
+data/org.seadve.simplecalculator.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
