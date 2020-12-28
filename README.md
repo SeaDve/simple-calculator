@@ -8,7 +8,7 @@ A simple calculator built with GTK3 and Python.
 
 ## To test
 
-To test, just download the `main.py` file from src and run it with python in the terminal
+To test, just download the `main.py` file from src and run it with python in the terminal.
 
 `python main.py`
 
